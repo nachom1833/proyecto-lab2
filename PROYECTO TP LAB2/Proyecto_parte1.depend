@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1684239049 source:c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"clsPersona.h"
+	"cls.musicos.h"
+	"cls.archivoMusicos.h"
+	"menuGenero.h"
+	"menuConf.h"
+	"reportes.h"
+
+1683813193 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\fecha.h
+	<ctime>
+
+1683215277 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\clspersona.h
+
+1682608284 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\clscliente.h
+
+1683148429 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\clsarchivocliente.h
+
+1683814793 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\cls.musicos.h
+
+1684246164 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\cls.archivomusicos.h
+
+1683815491 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\musicos.2023.h
+
+1683815501 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\musicos.archivo2023.h
+	"cls.archivoMusicos.h"
+	"musicos.2023.h"
+
+1683819272 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\reportes.h
+
+1684205299 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\menugenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	"claseGenero.h"
+	"archivoGenero.h"
+
+1684205759 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\clasegenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
+1684246164 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\archivogenero.h
+
+1684244220 c:\users\54113\onedrive\documentos\utn lab2\proyecto parte 1\proyecto_parte1\menuconf.h
+
+1684362900 source:c:\users\rodri\desktop\proyecto tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"clsPersona.h"
+	"cls.musicos.h"
+	"cls.archivoMusicos.h"
+	"menuGenero.h"
+	"menuConf.h"
+	"reportes.h"
+	"rlutil.h"
+	"menuPrincipal.h"
+	"funcionesAdicionales.h"
+
+1684287329 c:\users\rodri\desktop\proyecto tp lab2\fecha.h
+	<ctime>
+
+1683215278 c:\users\rodri\desktop\proyecto tp lab2\clspersona.h
+
+1684268341 c:\users\rodri\desktop\proyecto tp lab2\cls.musicos.h
+
+1684363427 c:\users\rodri\desktop\proyecto tp lab2\cls.archivomusicos.h
+	"conio.h"
+	"rlutil.h"
+
+1684372924 c:\users\rodri\desktop\proyecto tp lab2\menugenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	"claseGenero.h"
+	"archivoGenero.h"
+
+1684367259 c:\users\rodri\desktop\proyecto tp lab2\clasegenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
+1684372850 c:\users\rodri\desktop\proyecto tp lab2\archivogenero.h
+	"claseGenero.h"
+	"menuGenero.h"
+
+1684269055 c:\users\rodri\desktop\proyecto tp lab2\menuconf.h
+
+1684371999 c:\users\rodri\desktop\proyecto tp lab2\reportes.h
+
+1667570516 c:\users\rodri\desktop\proyecto tp lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1684293716 c:\users\rodri\desktop\proyecto tp lab2\menuprincipal.h
+	"funcionesAdicionales.h"
+
+1684274165 c:\users\rodri\desktop\proyecto tp lab2\funcionesadicionales.h
+
+1706640493 source:c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\main.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"clsPersona.h"
+	"cls.musicos.h"
+	"cls.archivoMusicos.h"
+	"menuGenero.h"
+	"menuConf.h"
+	"reportes.h"
+	"rlutil.h"
+	"menuPrincipal.h"
+	"funcionesAdicionales.h"
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\fecha.h
+	<ctime>
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\clspersona.h
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\cls.musicos.h
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\cls.archivomusicos.h
+	"conio.h"
+	"rlutil.h"
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\menugenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	"claseGenero.h"
+	"archivoGenero.h"
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\clasegenero.h
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\archivogenero.h
+	"claseGenero.h"
+	"menuGenero.h"
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\menuconf.h
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\reportes.h
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\menuprincipal.h
+	"funcionesAdicionales.h"
+
+1706640493 c:\users\acer\videos\facultad\año 1\lab 2\proyecto tp lab2\funcionesadicionales.h
+
